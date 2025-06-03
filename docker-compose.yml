@@ -1,0 +1,14 @@
+services:
+  redis:
+    image: redis:7
+    container_name: redis-server
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+
+  target:
+    image: nginx
+    container_name: target-server
+    ports:
+      - "8080:80"
+    restart: unless-stopped

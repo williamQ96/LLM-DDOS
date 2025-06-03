@@ -1,0 +1,342 @@
+[DEBUG] Loaded llm/prompt_templates.py
+[PubSubClient] Connecting to Redis on channel '1-channel'
+[COMMANDER AI] Connected to Redis channel: 1-channel
+================== Commander AI Node Started ==================
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 1}. Avg latency: 12.68 ms.
+
+Decision:
+
+[PubSubClient] Publishing: TCP
+[COMMANDER AI] [OK!] Published: TCP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 2}. Avg latency: 10.1 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 3}. Avg latency: 7.9 ms.
+
+Decision:
+
+[PubSubClient] Publishing: TCP
+[COMMANDER AI] [OK!] Published: TCP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 4}. Avg latency: 6.93 ms.
+
+Decision:
+
+[PubSubClient] Publishing: TCP
+[COMMANDER AI] [OK!] Published: TCP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 5}. Avg latency: 6.54 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 6}. Avg latency: 9.54 ms.
+
+Decision:
+
+[PubSubClient] Publishing: TCP
+[COMMANDER AI] [OK!] Published: TCP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 7}. Avg latency: 8.9 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 8}. Avg latency: 8.35 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 9}. Avg latency: 7.9 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 10}. Avg latency: 7.51 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 11}. Avg latency: 7.19 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 12}. Avg latency: 6.93 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 13}. Avg latency: 6.7 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 14}. Avg latency: 6.51 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+[COMMANDER AI] [OK!] Published: HTTP
+
+[COMMANDER AI] Shutting down.

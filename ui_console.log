@@ -1,0 +1,169 @@
+[DEBUG] Loaded llm/prompt_templates.py
+[PubSubClient] Connecting to Redis on channel 'commander-1-channel'
+[COMMANDER AI] Connected to Redis channel: commander-1-channel
+================== Commander AI Node Started ==================
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 1}. Avg latency: 10.52 ms.
+
+Decision:
+
+[PubSubClient] Publishing: TCP
+Traceback (most recent call last):
+  File "C:\Users\izayo\Documents\GitHub\LLM-DDOS\nodes\commander_ai.py", line 63, in <module>
+    print(f"[COMMANDER AI] \u2705 Published: {decision_line}")
+  File "C:\Users\izayo\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 15: character maps to <undefined>
+[DEBUG] Loaded llm/prompt_templates.py
+[PubSubClient] Connecting to Redis on channel 'commander-1-channel'
+[COMMANDER AI] Connected to Redis channel: commander-1-channel
+================== Commander AI Node Started ==================
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 1}. Avg latency: 9.51 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+Traceback (most recent call last):
+  File "C:\Users\izayo\Documents\GitHub\LLM-DDOS\nodes\commander_ai.py", line 63, in <module>
+    print(f"[COMMANDER AI] \u2705 Published: {decision_line}")
+  File "C:\Users\izayo\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 15: character maps to <undefined>
+[DEBUG] Loaded llm/prompt_templates.py
+[PubSubClient] Connecting to Redis on channel 'commander-1-channel'
+[COMMANDER AI] Connected to Redis channel: commander-1-channel
+================== Commander AI Node Started ==================
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 1}. Avg latency: 10.52 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+Traceback (most recent call last):
+  File "C:\Users\izayo\Documents\GitHub\LLM-DDOS\nodes\commander_ai.py", line 63, in <module>
+    print(f"[COMMANDER AI] \u2705 Published: {decision_line}")
+  File "C:\Users\izayo\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 15: character maps to <undefined>
+[DEBUG] Loaded llm/prompt_templates.py
+[PubSubClient] Connecting to Redis on channel 'commander-1-channel'
+[COMMANDER AI] Connected to Redis channel: commander-1-channel
+================== Commander AI Node Started ==================
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 1}. Avg latency: 10.39 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+Traceback (most recent call last):
+  File "C:\Users\izayo\Documents\GitHub\LLM-DDOS\nodes\commander_ai.py", line 63, in <module>
+    print(f"[COMMANDER AI] \u2705 Published: {decision_line}")
+  File "C:\Users\izayo\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 15: character maps to <undefined>[DEBUG] Loaded llm/prompt_templates.py
+[PubSubClient] Connecting to Redis on channel 'commander-1-channel'
+[COMMANDER AI] Connected to Redis channel: commander-1-channel
+================== Commander AI Node Started ==================
+
+[COMMANDER AI] >>> Prompt to Ollama:
+You are an AI commander responsible for simulating cyberattacks based on observed server behavior.
+
+Your goal is to:
+1. Analyze simplified logs or status reports from a target server.
+2. Decide the most appropriate type of attack from this limited set:
+   - TCP
+   - HTTP
+   - SLOWLORIS
+3. Respond only with a decision line in this format:
+
+Decision: <ONE OF TCP | HTTP | SLOWLORIS>
+
+Do not include any commentary, reasoning, or additional output. Keep it short and in log-style.
+
+
+Observation:
+Status codes: {200: 1}. Avg latency: 10.61 ms.
+
+Decision:
+
+[PubSubClient] Publishing: HTTP
+Traceback (most recent call last):
+  File "C:\Users\izayo\Documents\GitHub\LLM-DDOS\nodes\commander_ai.py", line 63, in <module>
+    print(f"[COMMANDER AI] \u2705 Published: {decision_line}")
+  File "C:\Users\izayo\anaconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2705' in position 15: character maps to <undefined>
